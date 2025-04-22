@@ -1,0 +1,10 @@
+Egzamin INF.04 – Dokumentacja
+System operacyjny: Windows 11
+Środowisko programistyczne: Visual Studio Code  
+Języki programowania: JavaScript (React)
+
+Do aplikacji webowej wykorzystano framework React.
+Zastosowano bibliotekę Bootstrap do stylizacji komponentów (checkboxy, przyciski).
+Komponent wyświetla zdjęcia kategorii: Kwiaty, Zwierzęta, Samochody.
+Działa filtrowanie po kategoriach oraz zliczanie pobrań zdjęć.
+
